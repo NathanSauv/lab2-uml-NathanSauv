@@ -4,7 +4,7 @@ namespace lab2_uml_NathanSauv
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bonjour depuis mon lab2 UML !");
+            Console.WriteLine("Hello World");
         }
     }
 }
